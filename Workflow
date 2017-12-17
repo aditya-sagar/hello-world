@@ -1,0 +1,33 @@
+Branching
+1. Branching can be done to add new features bug fixes, which can then be merged with the master. 
+As this doesn't affect the master, we can freely experiment until the change is ready.
+2. Anything in the master is always deployable.
+3. Keep the branch name descriptive of its purpose.
+
+Commits
+1. Any change (add, edit, delete) is commited so it reflects in the master/branch.
+2. Every commit is recorded, so that we can go/rollback to any version.
+3. Keep commit comments clear so that it's easy to decide the current version as changes are made.
+These commits also provide feedback to others contributing to code.
+
+Pull Request
+1. These requests are used to discuss commits and finally merge to the requested branch.
+
+Fork and Pull Model, Shared Repository Model
+
+Discuss and review code
+1. Before any code is merged to the required branch, code needs to be reviewed and discussed.
+2. The pull request allows this and any addtional comments that yoy may get.
+3. Pull request comments can embed images, emoji, pre-formatted text blocks to allow the needed clarifiaction.
+
+Deploy
+1. If everything's fine, then changes can be deployed in the master.
+2. If changes cause some issue, change can be rolled back.
+
+
+
+
+
+
+
+
