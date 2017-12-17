@@ -24,6 +24,10 @@ Deploy
 1. If everything's fine, then the branch can be deployed.
 2. If changes cause some issue, we can rollback to the master.
 
+Merge
+1. Once a branch is deployed and works fine, it can be merged with the master.
+2. We can incorporate keywords in the pull request, to highlight the feature or bug that the pull request addresses.
+
 
 
 
