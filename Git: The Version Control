@@ -1,0 +1,6 @@
+1. A version control system (VCS) tracks the history of changes made by people, as they collaborate.
+Teams can run tests, fix bugs, contribute new code, with the confidence that any code can be reverted.
+There are also provisions to keep track of who, when and why changes were made.
+2. A distributed version control (DVCS). Collaboration can happen at any time asynchronously.
+3. A repository consists of all files and folders of a project along with each files revision history.
+
