@@ -21,8 +21,8 @@ Discuss and review code
 3. Pull request comments can embed images, emoji, pre-formatted text blocks to allow the needed clarifiaction.
 
 Deploy
-1. If everything's fine, then changes can be deployed in the master.
-2. If changes cause some issue, change can be rolled back.
+1. If everything's fine, then the branch can be deployed.
+2. If changes cause some issue, we can rollback to the master.
 
 
 
